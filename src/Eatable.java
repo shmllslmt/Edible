@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface Eatable {
+public interface Eatable {
+    int stock = 10;
+//    void howToEat();
 }
